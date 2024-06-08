@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(1.3 VERSION 0.1.0 LANGUAGES C CXX)
+project(z3 VERSION 0.1.0 LANGUAGES C CXX)
 
-add_executable(1.3 main.cpp)
+add_executable(z3 main.cpp)
 

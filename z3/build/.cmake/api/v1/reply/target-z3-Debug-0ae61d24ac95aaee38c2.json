@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "1.3.exe"
+			"path" : "z3.exe"
 		},
 		{
-			"path" : "1.3.pdb"
+			"path" : "z3.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -48,7 +48,7 @@
 			]
 		}
 	],
-	"id" : "1.3::@6890427a1f51a3e7e1df",
+	"id" : "z3::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -68,8 +68,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "1.3",
-	"nameOnDisk" : "1.3.exe",
+	"name" : "z3",
+	"nameOnDisk" : "z3.exe",
 	"paths" : 
 	{
 		"build" : ".",

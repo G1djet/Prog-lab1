@@ -1,3 +1,3 @@
-D:/tpu/programming/lab1/1.3/build/CMakeFiles/1.3.dir
-D:/tpu/programming/lab1/1.3/build/CMakeFiles/edit_cache.dir
-D:/tpu/programming/lab1/1.3/build/CMakeFiles/rebuild_cache.dir
+D:/tpu/programming/lab1/z3/build/CMakeFiles/z3.dir
+D:/tpu/programming/lab1/z3/build/CMakeFiles/edit_cache.dir
+D:/tpu/programming/lab1/z3/build/CMakeFiles/rebuild_cache.dir

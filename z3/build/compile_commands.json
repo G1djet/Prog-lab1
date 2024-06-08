@@ -1,8 +1,8 @@
 [
 {
-  "directory": "D:/tpu/programming/lab1/1.3/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\1.3.dir\\main.cpp.obj -c D:\\tpu\\programming\\lab1\\1.3\\main.cpp",
-  "file": "D:\\tpu\\programming\\lab1\\1.3\\main.cpp",
-  "output": "CMakeFiles\\1.3.dir\\main.cpp.obj"
+  "directory": "D:/tpu/programming/lab1/z3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\z3.dir\\main.cpp.obj -c D:\\tpu\\programming\\lab1\\z3\\main.cpp",
+  "file": "D:\\tpu\\programming\\lab1\\z3\\main.cpp",
+  "output": "CMakeFiles\\z3.dir\\main.cpp.obj"
 }
 ]
