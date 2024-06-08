@@ -2,6 +2,11 @@
 
 static int countCalls = 0;
 
+/**
+ * \brief Выводит строку заданное количество раз и подсчитывает количество вызовов.
+ * \param str Строка, которую необходимо повторить.
+ * \param n Количество повторений.
+ */
 void printRepeatedString(std::string str, int n) {
     countCalls++;
 
